@@ -147,7 +147,7 @@ Smart-Room-Monitoring-System/
 ## 👤 Author
 
 **Deepak Rajesh**  
-Aspiring Embedded Systems & IoT Engineer  
+
 
 ---
 
